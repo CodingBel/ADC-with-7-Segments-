@@ -1,0 +1,1 @@
+this is all about using a PIC mcu and 7 segment to display ADC values
