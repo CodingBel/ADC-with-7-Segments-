@@ -4,7 +4,7 @@
 
 void Test_Diode (void)
 {
-	LATDbits.LATD2 	 = 1;
+	LATDbits.LATD2 	 = 1;   		// Pin used to check pwr on Ckt 
 }
 
 unsigned char Get_Digits (int Incoming_value)
